@@ -7,7 +7,7 @@ Adaptive-Layout exercise. 7th week of studying at [ITGirlSchool].
 <img width="45%" alt="HomePage" src="../main/captureweb.jpeg">
 
 ## Demo
-[Adaptiva-Layout]
+[Adaptive-Layout]
 
 ## Tech stack
 
