@@ -20,4 +20,4 @@ Adaptive-Layout exercise. 7th week of studying at [ITGirlSchool].
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Adaptive-Layout]: <https://alenagm.github.io/[Adaptive-Layout/>
+   [Adaptive-Layout]: <https://alenagm.github.io/Adaptive-Layout/>
