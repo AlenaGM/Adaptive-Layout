@@ -16,7 +16,7 @@ Adaptive-Layout exercise. 7th week of studying at [ITGirlSchool].
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; responsive layout<br>
 
 <br><br> 
-\* _Weeks 7 Exercise for [ITGirlSchool]_ 
+\* _Week 7 Exercise for [ITGirlSchool]_ 
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
