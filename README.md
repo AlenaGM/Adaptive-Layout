@@ -4,7 +4,7 @@ Adaptive-Layout exercise. 7th week of studying at [ITGirlSchool].
 
 
 <br>
-<img width="45%" alt="HomePage" src="../main/captureweb.jpeg">
+<img width="45%" alt="screen capture" src="../main/captureweb.jpeg">
 
 ## Demo
 [Adaptive-Layout]
@@ -13,11 +13,11 @@ Adaptive-Layout exercise. 7th week of studying at [ITGirlSchool].
 
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; HTML5<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS3<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; responsive layout<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Adaptive Layout<br>
 
 <br><br> 
-\* _Weeks 7 Exercise for [ITGirlSchool]_ 
+\* _Week 7 Exercise for [ITGirlSchool]_ 
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Adaptive-Layout]: <https://alenagm.github.io/[Adaptive-Layout/>
+   [Adaptive-Layout]: <https://alenagm.github.io/Adaptive-Layout/>
