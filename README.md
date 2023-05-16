@@ -1,6 +1,6 @@
 # Adaptive-Layout
 
-Adaptive-Layout exercise. 7th week of studying at [ITGirlSchool].
+Adaptive-layout exercise. 7th week of studying at [ITGirlSchool].
 
 
 <br>
