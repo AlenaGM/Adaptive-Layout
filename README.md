@@ -1,13 +1,13 @@
-# Adaptive-Layout
+# Adaptive Layout
 
-Adaptive-Layout exercise. 7th week of studying at [ITGirlSchool].
+Adaptive layout made as an exercise in the 7th week of studying at [ITGirlSchool].
 
 
 <br>
 <img width="45%" alt="screen capture" src="../main/captureweb.jpeg">
 
 ## Demo
-[Adaptive-Layout]
+[Adaptive Layout]
 
 ## Tech stack
 
@@ -20,4 +20,4 @@ Adaptive-Layout exercise. 7th week of studying at [ITGirlSchool].
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Adaptive-Layout]: <https://alenagm.github.io/Adaptive-Layout/>
+   [Adaptive Layout]: <https://alenagm.github.io/adaptive-layout/>
