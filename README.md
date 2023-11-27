@@ -13,7 +13,8 @@ Adaptive layout made as an exercise in the 7th week of studying at [ITGirlSchool
 
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; HTML5<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS3<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Adaptive Layout<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS-Grid<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Adaptive layout<br>
 
 <br><br> 
 \* _Week 7 Exercise for [ITGirlSchool]_ 
